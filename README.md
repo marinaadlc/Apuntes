@@ -6,8 +6,8 @@ Apuntes sobre desarrollo web, principalmente Front-End, maquetados en Word.
 * CSS
   - Bootsrap
   - Sass
- * Javascript
-   -jQuery
+* Javascript
+  - jQuery
  
  # Temario de Back-End
  * Command Line
